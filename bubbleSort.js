@@ -10,14 +10,13 @@ let bubbleSort = (arr) => {
 
       let val = arr[i]
       let nextVal = arr[j]
-
+      
       if (nextVal < val) {
         arr[i] = nextVal
         arr[j] = val
       }
-
     }
   }
 
-  return arr
-}
+  return arr  
+} 
