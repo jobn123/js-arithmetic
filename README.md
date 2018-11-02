@@ -11,3 +11,10 @@ js-arithmetic
 * 随机生成指定长度字符串 randomString.js
 * 不借助临时变量，进行两个整数的交换 swap.js
 * 去掉一组整型数组重复的值 uniqueArray.js
+* Arrary.prototype.reduce reduce.js
+  * 数组里所有的和， 
+  * 累加对象数组里面的值，
+  * 将二维数组转化为一维数组，
+  * 计算数组中每个元素出现的次数
+  * 按属性对object分类
+  * 数组去重
