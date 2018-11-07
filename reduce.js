@@ -1,11 +1,14 @@
 /**
   * Array.prototype.reduce((a, b, c, d) =>{}, default)
   * 按属性对object分类
-  * 数组去重
+  * Accumulator (acc) (累计器)
+    Current Value (cur) (当前值)
+    Current Index (idx) (当前索引)
+    Source Array (src) (源数组)
  */
 
  /**
-  * 数组里所有的和， 
+  * 数组里所有的和
   */
 let arraySum = (arr) => {
   return arr.reduce((a, b) => {

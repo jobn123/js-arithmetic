@@ -1,6 +1,3 @@
-# js-arithmetic
-js-arithmetic
-
 ## js 算法 
 
 * 冒泡排序 bubbleSort.js
