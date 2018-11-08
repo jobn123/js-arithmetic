@@ -10,4 +10,5 @@ let checkPlalindrome = (str) => {
   return str == str.split("").reverse().join("")
 }
 
+//str.split("").reverse().toString().replace( /\,/g,"")
 checkPlalindrome(argv.p)

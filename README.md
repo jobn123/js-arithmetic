@@ -16,3 +16,4 @@
   * 按属性对object分类
   * 数组去重
   * 千分符 1000000  -----> 100,000,0  toThounds.js
+* 数组全排列 Permutation.js
